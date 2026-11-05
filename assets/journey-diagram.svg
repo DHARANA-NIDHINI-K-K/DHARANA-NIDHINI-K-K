@@ -1,0 +1,222 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/><stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="connGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4f46e5"/><stop offset="100%" style="stop-color:#2dd4bf"/>
+    </linearGradient>
+    <linearGradient id="s1Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#312e81"/><stop offset="100%" style="stop-color:#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="s2Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a5f"/><stop offset="100%" style="stop-color:#0c2a44"/>
+    </linearGradient>
+    <linearGradient id="s3Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#134e4a"/><stop offset="100%" style="stop-color:#0a2f2c"/>
+    </linearGradient>
+    <linearGradient id="s4Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d1b69"/><stop offset="100%" style="stop-color:#1b1040"/>
+    </linearGradient>
+    <linearGradient id="s5Grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a3a2a"/><stop offset="100%" style="stop-color:#0a2018"/>
+    </linearGradient>
+    <filter id="cardShadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="iconGlow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="4" refY="2" orient="auto">
+      <path d="M0,0 L0,4 L6,2 z" fill="#6366f1"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="340" rx="16" fill="url(#bg)"/>
+
+  <!-- Section title -->
+  <text x="450" y="34" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="14"
+        fill="#94a3b8" text-anchor="middle" font-weight="600" letter-spacing="3">FROM CIRCUITS TO INTELLIGENT SYSTEMS</text>
+  <line x1="140" y1="40" x2="340" y2="40" stroke="#334155" stroke-width="1"/>
+  <line x1="560" y1="40" x2="760" y2="40" stroke="#334155" stroke-width="1"/>
+
+  <!-- Progress bar (the journey path) -->
+  <line x1="90" y1="162" x2="810" y2="162" stroke="#1e293b" stroke-width="4" stroke-linecap="round"/>
+  <line x1="90" y1="162" x2="810" y2="162" stroke="url(#connGrad)" stroke-width="2" stroke-linecap="round" stroke-dasharray="8 4" opacity="0.5"/>
+
+  <!-- STAGE 1: HARDWARE FOUNDATION -->
+  <g transform="translate(20, 65)">
+    <rect width="140" height="195" rx="12" fill="url(#s1Grad)" filter="url(#cardShadow)"/>
+    <rect width="140" height="195" rx="12" fill="none" stroke="#4f46e5" stroke-width="1.5"/>
+    <!-- Stage number -->
+    <rect x="12" y="12" width="22" height="22" rx="6" fill="#4f46e5"/>
+    <text x="23" y="27" font-family="'Inter',sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="700">1</text>
+    <!-- Stage icon: chip -->
+    <rect x="52" y="10" width="76" height="26" rx="5" fill="#312e81" opacity="0.8"/>
+    <text x="90" y="27" font-family="'Inter',sans-serif" font-size="10" fill="#a5b4fc" text-anchor="middle" font-weight="600">HARDWARE</text>
+    <!-- Stage label -->
+    <text x="70" y="58" font-family="'Inter',sans-serif" font-size="11" fill="#c7d2fe" text-anchor="middle" font-weight="700">Foundation</text>
+    <!-- Divider -->
+    <line x1="16" y1="66" x2="124" y2="66" stroke="#4f46e5" stroke-width="0.8" opacity="0.5"/>
+    <!-- Items -->
+    <g font-family="'Inter',sans-serif" font-size="10" fill="#94a3b8">
+      <circle cx="24" cy="82" r="3" fill="#6366f1"/>
+      <text x="34" y="86">Arduino Uno</text>
+      <circle cx="24" cy="102" r="3" fill="#6366f1"/>
+      <text x="34" y="106">ESP32</text>
+      <circle cx="24" cy="122" r="3" fill="#6366f1"/>
+      <text x="34" y="126">Microcontrollers</text>
+      <circle cx="24" cy="142" r="3" fill="#6366f1"/>
+      <text x="34" y="146">PCB Design</text>
+      <circle cx="24" cy="162" r="3" fill="#6366f1"/>
+      <text x="34" y="166">E. Circuits</text>
+    </g>
+    <!-- Bottom connector dot -->
+    <circle cx="140" cy="97" r="6" fill="#4f46e5" filter="url(#iconGlow)"/>
+  </g>
+
+  <!-- Arrow 1→2 -->
+  <g>
+    <path d="M182 162 L198 162" stroke="#6366f1" stroke-width="2" marker-end="url(#arrowBlue)" opacity="0.9"/>
+    <text x="190" y="155" font-family="'Inter',sans-serif" font-size="8" fill="#475569" text-anchor="middle">programs</text>
+  </g>
+
+  <!-- STAGE 2: EMBEDDED DEVELOPMENT -->
+  <g transform="translate(200, 65)">
+    <rect width="140" height="195" rx="12" fill="url(#s2Grad)" filter="url(#cardShadow)"/>
+    <rect width="140" height="195" rx="12" fill="none" stroke="#3b82f6" stroke-width="1.5"/>
+    <rect x="12" y="12" width="22" height="22" rx="6" fill="#3b82f6"/>
+    <text x="23" y="27" font-family="'Inter',sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="700">2</text>
+    <rect x="52" y="10" width="76" height="26" rx="5" fill="#1e3a5f" opacity="0.8"/>
+    <text x="90" y="27" font-family="'Inter',sans-serif" font-size="10" fill="#93c5fd" text-anchor="middle" font-weight="600">EMBEDDED</text>
+    <text x="70" y="58" font-family="'Inter',sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle" font-weight="700">Development</text>
+    <line x1="16" y1="66" x2="124" y2="66" stroke="#3b82f6" stroke-width="0.8" opacity="0.5"/>
+    <g font-family="'Inter',sans-serif" font-size="10" fill="#94a3b8">
+      <circle cx="24" cy="82" r="3" fill="#3b82f6"/>
+      <text x="34" y="86">Embedded C</text>
+      <circle cx="24" cy="102" r="3" fill="#3b82f6"/>
+      <text x="34" y="106">Firmware Dev</text>
+      <circle cx="24" cy="122" r="3" fill="#3b82f6"/>
+      <text x="34" y="126">GPIO Control</text>
+      <circle cx="24" cy="142" r="3" fill="#3b82f6"/>
+      <text x="34" y="146">Sensor I/O</text>
+      <circle cx="24" cy="162" r="3" fill="#3b82f6"/>
+      <text x="34" y="166">Protocols</text>
+    </g>
+    <circle cx="0" cy="97" r="6" fill="#3b82f6" filter="url(#iconGlow)"/>
+    <circle cx="140" cy="97" r="6" fill="#3b82f6" filter="url(#iconGlow)"/>
+  </g>
+
+  <!-- Arrow 2→3 -->
+  <g>
+    <path d="M362 162 L378 162" stroke="#2dd4bf" stroke-width="2" marker-end="url(#arrowBlue)" opacity="0.9"/>
+    <text x="370" y="155" font-family="'Inter',sans-serif" font-size="8" fill="#475569" text-anchor="middle">connects</text>
+  </g>
+
+  <!-- STAGE 3: DATA + CONNECTIVITY -->
+  <g transform="translate(380, 65)">
+    <rect width="140" height="195" rx="12" fill="url(#s3Grad)" filter="url(#cardShadow)"/>
+    <rect width="140" height="195" rx="12" fill="none" stroke="#0d9488" stroke-width="1.5"/>
+    <rect x="12" y="12" width="22" height="22" rx="6" fill="#0d9488"/>
+    <text x="23" y="27" font-family="'Inter',sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="700">3</text>
+    <rect x="52" y="10" width="76" height="26" rx="5" fill="#134e4a" opacity="0.8"/>
+    <text x="90" y="27" font-family="'Inter',sans-serif" font-size="10" fill="#5eead4" text-anchor="middle" font-weight="600">DATA + IoT</text>
+    <text x="70" y="58" font-family="'Inter',sans-serif" font-size="11" fill="#99f6e4" text-anchor="middle" font-weight="700">Connectivity</text>
+    <line x1="16" y1="66" x2="124" y2="66" stroke="#0d9488" stroke-width="0.8" opacity="0.5"/>
+    <g font-family="'Inter',sans-serif" font-size="10" fill="#94a3b8">
+      <circle cx="24" cy="82" r="3" fill="#0d9488"/>
+      <text x="34" y="86">Sensors</text>
+      <circle cx="24" cy="102" r="3" fill="#0d9488"/>
+      <text x="34" y="106">Actuators</text>
+      <circle cx="24" cy="122" r="3" fill="#0d9488"/>
+      <text x="34" y="126">UART · SPI · I²C</text>
+      <circle cx="24" cy="142" r="3" fill="#0d9488"/>
+      <text x="34" y="146">IoT Protocols</text>
+      <circle cx="24" cy="162" r="3" fill="#0d9488"/>
+      <text x="34" y="166">Data Streams</text>
+    </g>
+    <circle cx="0" cy="97" r="6" fill="#0d9488" filter="url(#iconGlow)"/>
+    <circle cx="140" cy="97" r="6" fill="#0d9488" filter="url(#iconGlow)"/>
+  </g>
+
+  <!-- Arrow 3→4 -->
+  <g>
+    <path d="M542 162 L558 162" stroke="#7c3aed" stroke-width="2" marker-end="url(#arrowBlue)" opacity="0.9"/>
+    <text x="550" y="155" font-family="'Inter',sans-serif" font-size="8" fill="#475569" text-anchor="middle">feeds</text>
+  </g>
+
+  <!-- STAGE 4: INTELLIGENT SYSTEMS -->
+  <g transform="translate(560, 65)">
+    <rect width="140" height="195" rx="12" fill="url(#s4Grad)" filter="url(#cardShadow)"/>
+    <rect width="140" height="195" rx="12" fill="none" stroke="#7c3aed" stroke-width="1.5"/>
+    <rect x="12" y="12" width="22" height="22" rx="6" fill="#7c3aed"/>
+    <text x="23" y="27" font-family="'Inter',sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="700">4</text>
+    <rect x="52" y="10" width="76" height="26" rx="5" fill="#2d1b69" opacity="0.8"/>
+    <text x="90" y="27" font-family="'Inter',sans-serif" font-size="10" fill="#c4b5fd" text-anchor="middle" font-weight="600">INTELLIGENCE</text>
+    <text x="70" y="58" font-family="'Inter',sans-serif" font-size="11" fill="#ddd6fe" text-anchor="middle" font-weight="700">AI + Software</text>
+    <line x1="16" y1="66" x2="124" y2="66" stroke="#7c3aed" stroke-width="0.8" opacity="0.5"/>
+    <g font-family="'Inter',sans-serif" font-size="10" fill="#94a3b8">
+      <circle cx="24" cy="82" r="3" fill="#7c3aed"/>
+      <text x="34" y="86">Python</text>
+      <circle cx="24" cy="102" r="3" fill="#7c3aed"/>
+      <text x="34" y="106">Data Processing</text>
+      <circle cx="24" cy="122" r="3" fill="#7c3aed"/>
+      <text x="34" y="126">AI/ML Basics</text>
+      <circle cx="24" cy="142" r="3" fill="#7c3aed"/>
+      <text x="34" y="146">Streamlit</text>
+      <circle cx="24" cy="162" r="3" fill="#7c3aed"/>
+      <text x="34" y="166">Edge Computing</text>
+    </g>
+    <circle cx="0" cy="97" r="6" fill="#7c3aed" filter="url(#iconGlow)"/>
+    <circle cx="140" cy="97" r="6" fill="#7c3aed" filter="url(#iconGlow)"/>
+  </g>
+
+  <!-- Arrow 4→5 -->
+  <g>
+    <path d="M722 162 L738 162" stroke="#22c55e" stroke-width="2" marker-end="url(#arrowBlue)" opacity="0.9"/>
+    <text x="730" y="155" font-family="'Inter',sans-serif" font-size="8" fill="#475569" text-anchor="middle">builds</text>
+  </g>
+
+  <!-- STAGE 5: PRACTICAL APPLICATIONS -->
+  <g transform="translate(740, 65)">
+    <rect width="140" height="195" rx="12" fill="url(#s5Grad)" filter="url(#cardShadow)"/>
+    <rect width="140" height="195" rx="12" fill="none" stroke="#16a34a" stroke-width="1.5"/>
+    <rect x="12" y="12" width="22" height="22" rx="6" fill="#16a34a"/>
+    <text x="23" y="27" font-family="'Inter',sans-serif" font-size="12" fill="white" text-anchor="middle" font-weight="700">5</text>
+    <rect x="52" y="10" width="76" height="26" rx="5" fill="#1a3a2a" opacity="0.8"/>
+    <text x="90" y="27" font-family="'Inter',sans-serif" font-size="10" fill="#86efac" text-anchor="middle" font-weight="600">SOLUTIONS</text>
+    <text x="70" y="58" font-family="'Inter',sans-serif" font-size="11" fill="#bbf7d0" text-anchor="middle" font-weight="700">Applications</text>
+    <line x1="16" y1="66" x2="124" y2="66" stroke="#16a34a" stroke-width="0.8" opacity="0.5"/>
+    <g font-family="'Inter',sans-serif" font-size="10" fill="#94a3b8">
+      <circle cx="24" cy="82" r="3" fill="#16a34a"/>
+      <text x="34" y="86">Smart Devices</text>
+      <circle cx="24" cy="102" r="3" fill="#16a34a"/>
+      <text x="34" y="106">IoT Systems</text>
+      <circle cx="24" cy="122" r="3" fill="#16a34a"/>
+      <text x="34" y="126">Automation</text>
+      <circle cx="24" cy="142" r="3" fill="#16a34a"/>
+      <text x="34" y="146">AI Engineering</text>
+      <circle cx="24" cy="162" r="3" fill="#16a34a"/>
+      <text x="34" y="166">Real Projects ✓</text>
+    </g>
+    <circle cx="0" cy="97" r="6" fill="#16a34a" filter="url(#iconGlow)"/>
+  </g>
+
+  <!-- Bottom legend -->
+  <text x="450" y="290" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="11"
+        fill="#475569" text-anchor="middle" letter-spacing="0.5">
+    Click the stage nodes on the interactive portfolio →
+  </text>
+  <text x="450" y="310" font-family="'Inter','Segoe UI',Arial,sans-serif" font-size="11"
+        fill="#4f46e5" text-anchor="middle" font-weight="500">
+    dharana-nidhini-k-k.github.io/DHARANA-NIDHINI-K-K
+  </text>
+  <line x1="150" y1="316" x2="300" y2="316" stroke="#1e293b" stroke-width="1"/>
+  <line x1="600" y1="316" x2="750" y2="316" stroke="#1e293b" stroke-width="1"/>
+  <text x="450" y="330" font-family="'Inter',sans-serif" font-size="9" fill="#334155" text-anchor="middle">
+    Currently exploring stages 1–4 · Building towards stage 5
+  </text>
+</svg>
+

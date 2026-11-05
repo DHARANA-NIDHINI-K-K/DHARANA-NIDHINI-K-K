@@ -1,0 +1,99 @@
+<svg width="440" height="220" viewBox="0 0 440 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/><stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+    <linearGradient id="indigo" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1"/><stop offset="100%" style="stop-color:#818cf8"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="440" height="220" rx="16" fill="url(#bg1)"/>
+  <rect width="440" height="220" rx="16" fill="none" stroke="#4f46e5" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="440" height="4" rx="2" fill="url(#indigo)"/>
+
+  <!-- Illustration: Arduino board schematic style -->
+  <!-- Board outline -->
+  <rect x="24" y="24" width="156" height="172" rx="8" fill="#0f172a" stroke="#6366f1" stroke-width="1" opacity="0.8"/>
+
+  <!-- Board components -->
+  <!-- USB connector -->
+  <rect x="24" y="40" width="20" height="36" rx="3" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+  <text x="34" y="62" font-family="'Inter',sans-serif" font-size="7" fill="#6366f1" text-anchor="middle">USB</text>
+
+  <!-- Main MCU chip -->
+  <rect x="68" y="68" width="64" height="64" rx="6" fill="#1e293b" stroke="#818cf8" stroke-width="1.5"/>
+  <g stroke="#818cf8" stroke-width="0.8" opacity="0.7">
+    <line x1="58" y1="78" x2="68" y2="78"/><line x1="58" y1="88" x2="68" y2="88"/>
+    <line x1="58" y1="98" x2="68" y2="98"/><line x1="58" y1="108" x2="68" y2="108"/>
+    <line x1="58" y1="118" x2="68" y2="118"/>
+    <line x1="132" y1="78" x2="142" y2="78"/><line x1="132" y1="88" x2="142" y2="88"/>
+    <line x1="132" y1="98" x2="142" y2="98"/><line x1="132" y1="108" x2="142" y2="108"/>
+    <line x1="132" y1="118" x2="142" y2="118"/>
+    <line x1="78" y1="58" x2="78" y2="68"/><line x1="90" y1="58" x2="90" y2="68"/>
+    <line x1="102" y1="58" x2="102" y2="68"/><line x1="114" y1="58" x2="114" y2="68"/>
+    <line x1="78" y1="132" x2="78" y2="142"/><line x1="90" y1="132" x2="90" y2="142"/>
+    <line x1="102" y1="132" x2="102" y2="142"/><line x1="114" y1="132" x2="114" y2="142"/>
+  </g>
+  <text x="100" y="96" font-family="'Inter',sans-serif" font-size="10" fill="#a5b4fc" text-anchor="middle" font-weight="700">ATmega</text>
+  <text x="100" y="110" font-family="'Inter',sans-serif" font-size="8" fill="#6366f1" text-anchor="middle">328P</text>
+
+  <!-- Pin headers -->
+  <g fill="#334155" stroke="#4f46e5" stroke-width="0.8">
+    <rect x="30" y="150" width="8" height="30" rx="1"/>
+    <rect x="40" y="150" width="8" height="30" rx="1"/>
+    <rect x="50" y="150" width="8" height="30" rx="1"/>
+  </g>
+
+  <!-- LED -->
+  <circle cx="150" cy="52" r="5" fill="#22c55e" opacity="0.8" filter="url(#glow)"/>
+  <text x="150" y="68" font-family="'Inter',sans-serif" font-size="7" fill="#22c55e" text-anchor="middle">PWR</text>
+
+  <!-- Reset button -->
+  <rect x="140" y="150" width="20" height="20" rx="10" fill="#1e293b" stroke="#6366f1" stroke-width="1"/>
+  <text x="150" y="164" font-family="'Inter',sans-serif" font-size="7" fill="#818cf8" text-anchor="middle">RST</text>
+
+  <!-- DIP switch illustration (right side) -->
+  <rect x="200" y="24" width="216" height="80" rx="8" fill="#0f172a" stroke="#6366f1" stroke-width="1" opacity="0.7"/>
+  <text x="310" y="44" font-family="'Inter',sans-serif" font-size="10" fill="#a5b4fc" text-anchor="middle" font-weight="600">8-bit DIP Switch</text>
+  <!-- DIP switch toggles -->
+  <g>
+    <rect x="215" y="52" width="16" height="30" rx="3" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+    <rect x="217" y="54" width="12" height="12" rx="2" fill="#6366f1" opacity="0.9"/>
+    <rect x="236" y="52" width="16" height="30" rx="3" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+    <rect x="238" y="66" width="12" height="12" rx="2" fill="#334155" opacity="0.9"/>
+    <rect x="257" y="52" width="16" height="30" rx="3" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+    <rect x="259" y="54" width="12" height="12" rx="2" fill="#6366f1" opacity="0.9"/>
+    <rect x="278" y="52" width="16" height="30" rx="3" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+    <rect x="280" y="54" width="12" height="12" rx="2" fill="#6366f1" opacity="0.9"/>
+    <rect x="299" y="52" width="16" height="30" rx="3" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+    <rect x="301" y="66" width="12" height="12" rx="2" fill="#334155" opacity="0.9"/>
+    <rect x="320" y="52" width="16" height="30" rx="3" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+    <rect x="322" y="54" width="12" height="12" rx="2" fill="#6366f1" opacity="0.9"/>
+    <rect x="341" y="52" width="16" height="30" rx="3" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+    <rect x="343" y="66" width="12" height="12" rx="2" fill="#334155" opacity="0.9"/>
+    <rect x="362" y="52" width="16" height="30" rx="3" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+    <rect x="364" y="54" width="12" height="12" rx="2" fill="#6366f1" opacity="0.9"/>
+  </g>
+  <!-- Binary value label -->
+  <text x="310" y="98" font-family="'Courier New',monospace" font-size="12" fill="#818cf8" text-anchor="middle" font-weight="600">1 0 1 1 0 1 0 1</text>
+
+  <!-- Arrow: DIP → LCD -->
+  <path d="M310 115 L310 130" stroke="#6366f1" stroke-width="2" marker-end="url(#arrow)"/>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+    <path d="M0,0 L0,8 L8,4 z" fill="#6366f1"/></marker></defs>
+
+  <!-- LCD display -->
+  <rect x="200" y="130" width="216" height="68" rx="8" fill="#0a1628" stroke="#2dd4bf" stroke-width="1.5"/>
+  <rect x="208" y="138" width="200" height="52" rx="4" fill="#061020"/>
+  <!-- LCD text rows -->
+  <text x="218" y="158" font-family="'Courier New',monospace" font-size="12" fill="#2dd4bf" font-weight="600">ASCII: A</text>
+  <text x="218" y="178" font-family="'Courier New',monospace" font-size="10" fill="#0d9488" opacity="0.8">Binary: 01000001</text>
+  <!-- LCD pixel grid suggestion -->
+  <g opacity="0.1" fill="#2dd4bf">
+    <rect x="354" y="140" width="40" height="48" rx="2"/>
+  </g>
+</svg>
+

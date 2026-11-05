@@ -1,72 +1,63 @@
-<!-- ═══════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      DHARANA NIDHINI K K — GitHub Profile README
-     Premium Engineering Dashboard | Dark Futuristic Theme
-     ═══════════════════════════════════════════════════════════════ -->
+     Material Design 3 · Engineering Portfolio
+     ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║               HEADER BANNER                         ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="assets/banner.svg" width="100%" alt="Dharana Nidhini K K — EEE Engineering Banner"/>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║          ANIMATED TYPING INTRODUCTION               ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     HERO BANNER
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&multiline=false&width=600&lines=Electrical+%26+Electronics+Engineering+Student;Embedded+Systems+Enthusiast;IoT+Developer;Hardware+%26+Software+Explorer;AI+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║      INTRODUCTION — CIRCUIT ART + BIO              ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-<table>
-<tr>
-<td width="45%" valign="top">
-
-<!-- Custom SVG Circuit Illustration -->
-<img src="assets/circuit-illustration.svg" width="100%" alt="ESP32 Embedded Systems Illustration"/>
-
-</td>
-<td width="55%" valign="top">
+<img src="assets/hero-banner.svg" width="100%" alt="Dharana Nidhini K K — Electrical & Electronics Engineering"/>
 
 <br/>
 
-```
-╔════════════════════════════════════════╗
-║  >> SYSTEM BOOT — PROFILE INIT ...    ║
-║                                       ║
-║  NAME   : DHARANA NIDHINI K K         ║
-║  DEGREE : B.E. Electrical & EE        ║
-║  INST.  : BIT Erode (3rd Year)        ║
-║  MODE   : LEARNING + BUILDING         ║
-║                                       ║
-║  FOCUS  :                             ║
-║    ⚡  Embedded Systems               ║
-║    📡  Internet of Things             ║
-║    🤖  Artificial Intelligence        ║
-║    🔌  Electronics & Hardware         ║
-║    💾  Software Development           ║
-║    🔲  PCB Design                     ║
-║    🧩  Microcontrollers               ║
-║                                       ║
-║  STATUS : [ ■■■■■■■■░░ ] GROWING      ║
-╚════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=Electrical+%26+Electronics+Engineering+Student;Embedded+Systems+Enthusiast;IoT+Developer;Hardware+%26+Software+Explorer;AI+Enthusiast)](https://git.io/typing-svg)
 
-> *"Bridging the gap between electronics,*
-> *intelligent systems and software."*
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     PERSONAL INTRODUCTION
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<table>
+<tr>
+<td width="44%" valign="middle">
+<img src="assets/circuit-illustration.svg" width="100%" alt="ESP32 Embedded Systems Engineering Illustration"/>
+</td>
+<td width="56%" valign="middle">
+
+<br/>
+
+**`DHARANA NIDHINI K K`**
+
+B.E. Electrical & Electronics Engineering · 3rd Year
+Bannari Amman Institute of Technology, Erode
+
+<br/>
+
+An EEE student passionate about combining **electronics**, **embedded hardware**, **intelligent systems** and **software** to develop practical engineering solutions.
+
+<br/>
+
+> *"Bridging the gap between electronics, intelligent systems and software."*
+
+<br/>
+
+**Interests &nbsp;·&nbsp;** Embedded Systems &nbsp;|&nbsp; Electronics &nbsp;|&nbsp; IoT &nbsp;|&nbsp; AI &nbsp;|&nbsp; PCB Design &nbsp;|&nbsp; Microcontrollers
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-DHARANA--NIDHINI--K--K-1e293b?style=flat-square&logo=github&logoColor=white)](https://github.com/DHARANA-NIDHINI-K-K)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharana-nidhini-k-k)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-4f46e5?style=flat-square&logo=googlechrome&logoColor=white)](https://dharana-nidhini-k-k.github.io/DHARANA-NIDHINI-K-K)
+
+<br/>
 
 </td>
 </tr>
@@ -74,165 +65,175 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║            GITHUB STATISTICS DASHBOARD             ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     ENGINEERING JOURNEY
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-## ⚡ &nbsp;`{ GITHUB STATS DASHBOARD }`
+## From Circuits to Intelligent Systems
+
+<sub>An evolving journey across hardware, firmware, data, intelligence and practical applications</sub>
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DHARANA-NIDHINI-K-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020b18&title_color=00ffe0&icon_color=a855f7&text_color=94a3b8&ring_color=3b82f6&count_private=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARANA-NIDHINI-K-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=020b18&title_color=00ffe0&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
+<img src="assets/journey-diagram.svg" width="100%" alt="Engineering Journey: Hardware Foundation → Embedded Development → Data + IoT → Intelligent Systems → Applications"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHARANA-NIDHINI-K-K&theme=tokyonight&hide_border=true&background=020b18&ring=00ffe0&fire=a855f7&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=475569&stroke=1e3a5f" alt="Contribution Streak"/>
+> 🌐 **Explore the full interactive version on my portfolio site →** &nbsp; [**dharana-nidhini-k-k.github.io/DHARANA-NIDHINI-K-K**](https://dharana-nidhini-k-k.github.io/DHARANA-NIDHINI-K-K)
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║            TECHNICAL SKILLS DASHBOARD              ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     TECHNICAL SKILLS
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<img src="assets/skills-header.svg" width="100%" alt="Skills & Technologies"/>
+## Technical Skills
+
+<sub>Technologies I have explored and used in projects · No invented proficiency levels</sub>
 
 </div>
 
 <br/>
-
-<!-- A. PROGRAMMING LANGUAGES -->
 
 <details open>
-<summary><b>⬡ &nbsp;A. Programming Languages</b></summary>
+<summary><b>&nbsp;&nbsp;💻 &nbsp;Programming Languages</b></summary>
 <br/>
-
 <div align="center">
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_\(programming_language\))&nbsp;
+[![C++](https://img.shields.io/badge/C++-00427E?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)&nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)&nbsp;
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 
 </div>
-</details>
-
 <br/>
-
-<!-- B. EMBEDDED SYSTEMS & HARDWARE -->
+</details>
 
 <details open>
-<summary><b>⬡ &nbsp;B. Embedded Systems &amp; Hardware</b></summary>
+<summary><b>&nbsp;&nbsp;⚙️ &nbsp;Embedded Systems &amp; Hardware</b></summary>
 <br/>
-
 <div align="center">
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/)
-[![Embedded C](https://img.shields.io/badge/Embedded_C-00427E?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_C)
-[![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6C3483?style=for-the-badge&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Microcontroller)
-[![Hardware Interfacing](https://img.shields.io/badge/Hardware_Interfacing-1ABC9C?style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
-[![Breadboard Prototyping](https://img.shields.io/badge/Breadboard_Prototyping-F39C12?style=for-the-badge&logo=arduino&logoColor=white)](#)
-[![Circuit Debugging](https://img.shields.io/badge/Circuit_Debugging-E74C3C?style=for-the-badge&logo=electron&logoColor=white)](#)
-[![Soldering](https://img.shields.io/badge/Soldering-795548?style=for-the-badge&logo=electron&logoColor=white)](#)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)&nbsp;
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/)&nbsp;
+[![Embedded C](https://img.shields.io/badge/Embedded_C-00427E?style=flat-square&logo=c&logoColor=white)](#)&nbsp;
+[![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6C3483?style=flat-square&logo=microchip&logoColor=white)](#)&nbsp;
+[![Hardware I/O](https://img.shields.io/badge/Hardware_Interfacing-1ABC9C?style=flat-square)](#)&nbsp;
+[![Circuit Debug](https://img.shields.io/badge/Circuit_Debugging-E74C3C?style=flat-square)](#)&nbsp;
+[![Breadboarding](https://img.shields.io/badge/Breadboard_Prototyping-F39C12?style=flat-square)](#)&nbsp;
+[![Soldering](https://img.shields.io/badge/Soldering-795548?style=flat-square)](#)
 
 </div>
-</details>
-
 <br/>
-
-<!-- C. ELECTRONICS & PCB DESIGN -->
+</details>
 
 <details open>
-<summary><b>⬡ &nbsp;C. Electronics &amp; PCB Design</b></summary>
+<summary><b>&nbsp;&nbsp;🔲 &nbsp;Electronics &amp; PCB Design</b></summary>
 <br/>
-
 <div align="center">
 
-[![PCB Design](https://img.shields.io/badge/PCB_Design-009639?style=for-the-badge&logo=altiumdesigner&logoColor=white)](https://en.wikipedia.org/wiki/Printed_circuit_board)
-[![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)](https://www.altium.com/)
-[![Circuit Simulation](https://img.shields.io/badge/Circuit_Simulation-2ECC71?style=for-the-badge&logo=electron&logoColor=white)](#)
-[![Hardware Prototyping](https://img.shields.io/badge/Hardware_Prototyping-3498DB?style=for-the-badge&logo=arduino&logoColor=white)](#)
-[![Electronic Circuit Design](https://img.shields.io/badge/Electronic_Circuit_Design-9B59B6?style=for-the-badge&logo=electron&logoColor=white)](#)
+[![PCB Design](https://img.shields.io/badge/PCB_Design-009639?style=flat-square&logo=altiumdesigner&logoColor=white)](#)&nbsp;
+[![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)](https://www.altium.com/)&nbsp;
+[![Circuit Simulation](https://img.shields.io/badge/Circuit_Simulation-2ECC71?style=flat-square)](#)&nbsp;
+[![Hardware Prototyping](https://img.shields.io/badge/Hardware_Prototyping-3498DB?style=flat-square)](#)&nbsp;
+[![Electronic Circuit Design](https://img.shields.io/badge/Circuit_Design-9B59B6?style=flat-square)](#)
 
 </div>
-</details>
-
 <br/>
-
-<!-- D. SOFTWARE & DEVELOPMENT -->
+</details>
 
 <details open>
-<summary><b>⬡ &nbsp;D. Software &amp; Development</b></summary>
+<summary><b>&nbsp;&nbsp;🌐 &nbsp;IoT &amp; Connectivity</b></summary>
 <br/>
-
 <div align="center">
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![AI/ML Fundamentals](https://img.shields.io/badge/AI%2FML_Fundamentals-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![I2C](https://img.shields.io/badge/I²C_Protocol-0d9488?style=flat-square)](#)&nbsp;
+[![SPI](https://img.shields.io/badge/SPI_Protocol-6366f1?style=flat-square)](#)&nbsp;
+[![UART](https://img.shields.io/badge/UART-7c3aed?style=flat-square)](#)&nbsp;
+[![ESP32 WiFi](https://img.shields.io/badge/ESP32_WiFi%2FBT-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/)&nbsp;
+[![Sensor Networks](https://img.shields.io/badge/Sensor_Networks-3b82f6?style=flat-square)](#)
 
 </div>
+<br/>
 </details>
 
+<details open>
+<summary><b>&nbsp;&nbsp;🛠️ &nbsp;Software &amp; Development</b></summary>
 <br/>
+<div align="center">
 
-> **Note:** These reflect technologies I have explored and used in projects. I am a 3rd-year student — continuously learning and growing. No fake proficiency levels.
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)&nbsp;
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)&nbsp;
+[![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)&nbsp;
+[![AI/ML Fundamentals](https://img.shields.io/badge/AI%2FML_Fundamentals-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#)
+
+</div>
+<br/>
+</details>
+
+<div align="center">
+<sub>🔍 Explore the interactive skills explorer on my <a href="https://dharana-nidhini-k-k.github.io/DHARANA-NIDHINI-K-K#skills"><b>portfolio site</b></a></sub>
+</div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║           FEATURED PROJECTS SHOWCASE               ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     FEATURED PROJECTS
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<img src="assets/projects-header.svg" width="100%" alt="Featured Projects"/>
+## Featured Projects
+
+<sub>Real engineering solutions · Hardware to software · Genuine project work only</sub>
 
 </div>
 
 <br/>
 
-<!-- PROJECT 1 -->
+<!-- PROJECT 1 ─────────────────────────────────────── -->
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<img src="assets/project1-card.svg" width="100%" alt="Project 1 - DIP Switch ASCII Converter"/>
-
+<td width="48%" valign="top">
+<img src="assets/project1-thumb.svg" width="100%" alt="DIP Switch ASCII Converter — Arduino Project"/>
 </td>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
 <br/>
 
-### 🔌 &nbsp;DIP Switch ASCII Converter
+### DIP Switch ASCII Converter
 
-An **Arduino-based digital system** that accepts 8-bit binary input via a DIP switch and converts it into ASCII characters displayed on a **16×2 I²C LCD** with buzzer feedback.
+**with 16×2 LCD Display & Buzzer Alert**
+
+An Arduino-based digital system that accepts 8-bit binary input via a DIP switch and converts it to ASCII characters displayed on a 16×2 I²C LCD, with buzzer feedback.
 
 **What it does:**
 - Reads 8-bit DIP switch binary input
-- Converts binary code → ASCII character
+- Converts binary → ASCII character in real time
 - Displays output on 16×2 I²C LCD
-- Triggers buzzer on valid character detected
+- Triggers buzzer on valid character detection
 
 **Tech Stack:**
 
-`Arduino Uno` &nbsp; `Embedded C/C++` &nbsp; `I²C Protocol`
-`16x2 LCD` &nbsp; `DIP Switch` &nbsp; `Buzzer` &nbsp; `Digital Electronics`
+![Arduino](https://img.shields.io/badge/Arduino_Uno-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C%2FC++-00427E?style=flat-square&logo=c&logoColor=white)
+![LCD](https://img.shields.io/badge/I²C_LCD-6366f1?style=flat-square)
+![DIP Switch](https://img.shields.io/badge/DIP_Switch-0d9488?style=flat-square)
+![Buzzer](https://img.shields.io/badge/Buzzer_Alert-7c3aed?style=flat-square)
 
-**Status:** &nbsp; ![Status](https://img.shields.io/badge/Status-Completed-00ff88?style=flat-square)
+**Status:** &nbsp; ![Completed](https://img.shields.io/badge/●_Completed-22c55e?style=flat-square)
 
-🔗 **[View Repository →](https://github.com/DHARANA-NIDHINI-K-K)**
+🔗 &nbsp;[**View Repository →**](https://github.com/DHARANA-NIDHINI-K-K)
+
+<br/>
 
 </td>
 </tr>
@@ -240,133 +241,43 @@ An **Arduino-based digital system** that accepts 8-bit binary input via a DIP sw
 
 <br/>
 
-<!-- PROJECT 2 -->
+<!-- PROJECT 2 ─────────────────────────────────────── -->
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
 <br/>
 
-### 🤖 &nbsp;IoT + AI Smart Skill Gap Detector
+### IoT + AI Smart Skill Gap Detector
 
-A **student skill assessment platform** that identifies knowledge gaps using rule-based AI evaluation and provides a structured learning dashboard with personalised recommendations.
+**Student Knowledge Assessment Platform**
+
+A skill assessment platform that identifies student knowledge gaps using rule-based AI evaluation, providing a structured learning dashboard with personalised insights and recommendations.
 
 **What it does:**
-- Assesses student skills across domains
-- Detects knowledge gaps via rule-based logic
+- Assesses student skills across multiple domains
+- Detects knowledge gaps via rule-based AI logic
 - Displays personalised assessment dashboard
-- Stores results with SQLite for analysis
+- Stores results in SQLite for persistent analysis
 
 **Tech Stack:**
 
-`Python` &nbsp; `Streamlit` &nbsp; `SQLite` &nbsp; `AI/ML Fundamentals`
-`Data Analysis` &nbsp; `Rule-Based Logic`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML_Fundamentals-7c3aed?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0d9488?style=flat-square)
 
-**Status:** &nbsp; ![Status](https://img.shields.io/badge/Status-Completed-00ff88?style=flat-square)
+**Status:** &nbsp; ![Completed](https://img.shields.io/badge/●_Completed-22c55e?style=flat-square)
 
-🔗 **[View Repository →](https://github.com/DHARANA-NIDHINI-K-K)**
+🔗 &nbsp;[**View Repository →**](https://github.com/DHARANA-NIDHINI-K-K)
+
+<br/>
 
 </td>
-<td width="50%" valign="top">
-
-<img src="assets/project2-card.svg" width="100%" alt="Project 2 - IoT AI Skill Gap Detector"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-> 💡 *More projects available on my [GitHub repositories page →](https://github.com/DHARANA-NIDHINI-K-K?tab=repositories)*
-
----
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║          GITHUB CONTRIBUTION ACTIVITY              ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-## 📊 &nbsp;`{ CONTRIBUTION ACTIVITY }`
-
-<br/>
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DHARANA-NIDHINI-K-K&bg_color=020b18&color=00ffe0&line=3b82f6&point=a855f7&area=true&area_color=00ffe020&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/DHARANA-NIDHINI-K-K)
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║            CURRENTLY EXPLORING                     ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-## 🛰️ &nbsp;`{ CURRENTLY EXPLORING }`
-
-*Continuous learning — always expanding the horizon*
-
-<br/>
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="140">
-<br/>
-⚙️
-<br/>
-<b>Embedded Systems</b>
-<br/>
-<sub>Development</sub>
-<br/><br/>
-</td>
-<td align="center" width="140">
-<br/>
-☕
-<br/>
-<b>Advanced Java</b>
-<br/>
-<sub>OOP & DSA</sub>
-<br/><br/>
-</td>
-<td align="center" width="140">
-<br/>
-🌐
-<br/>
-<b>IoT + AI</b>
-<br/>
-<sub>Integration</sub>
-<br/><br/>
-</td>
-<td align="center" width="140">
-<br/>
-🔲
-<br/>
-<b>PCB Design</b>
-<br/>
-<sub>Altium Designer</sub>
-<br/><br/>
-</td>
-<td align="center" width="140">
-<br/>
-🧮
-<br/>
-<b>DSA</b>
-<br/>
-<sub>Data Structures</sub>
-<br/><br/>
-</td>
-<td align="center" width="140">
-<br/>
-🔗
-<br/>
-<b>HW-SW</b>
-<br/>
-<sub>Integration</sub>
-<br/><br/>
+<td width="48%" valign="top">
+<img src="assets/project2-thumb.svg" width="100%" alt="IoT + AI Skill Gap Detection — Python Streamlit Project"/>
 </td>
 </tr>
 </table>
@@ -374,120 +285,115 @@ A **student skill assessment platform** that identifies knowledge gaps using rul
 <br/>
 
 <div align="center">
+<sub>More projects on my <a href="https://github.com/DHARANA-NIDHINI-K-K?tab=repositories"><b>repositories page</b></a> &nbsp;·&nbsp; Interactive cards on the <a href="https://dharana-nidhini-k-k.github.io/DHARANA-NIDHINI-K-K#projects"><b>portfolio site</b></a></sub>
+</div>
 
-[![Learning C++](https://img.shields.io/badge/📚_Learning-Embedded_Systems_Dev-020b18?style=for-the-badge&labelColor=020b18&color=00ffe0)](https://github.com/DHARANA-NIDHINI-K-K)
-[![Learning Java](https://img.shields.io/badge/📚_Exploring-Advanced_Java-020b18?style=for-the-badge&labelColor=020b18&color=3b82f6)](https://github.com/DHARANA-NIDHINI-K-K)
-[![Learning IoT](https://img.shields.io/badge/📡_Building-IoT_+_AI_Systems-020b18?style=for-the-badge&labelColor=020b18&color=a855f7)](https://github.com/DHARANA-NIDHINI-K-K)
-[![Learning PCB](https://img.shields.io/badge/🔲_Designing-PCB_Layouts-020b18?style=for-the-badge&labelColor=020b18&color=00ffe0)](https://github.com/DHARANA-NIDHINI-K-K)
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     GITHUB STATISTICS
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+## GitHub Activity
+
+<br/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DHARANA-NIDHINI-K-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=818cf8&icon_color=7c3aed&text_color=94a3b8&ring_color=4f46e5&count_private=true" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHARANA-NIDHINI-K-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e293b&title_color=818cf8&text_color=94a3b8&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DHARANA-NIDHINI-K-K&theme=tokyonight&hide_border=true&background=1e293b&ring=818cf8&fire=7c3aed&currStreakLabel=4f46e5&sideLabels=94a3b8&dates=475569&stroke=334155" alt="Contribution Streak"/>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DHARANA-NIDHINI-K-K&bg_color=1e293b&color=818cf8&line=4f46e5&point=7c3aed&area=true&area_color=4f46e520&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/DHARANA-NIDHINI-K-K)
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║           ENGINEERING INTERESTS                    ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     CURRENTLY EXPLORING
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-## 🔬 &nbsp;`{ ENGINEERING INTERESTS }`
+## Currently Exploring
+
+<sub>Continuous learning — always expanding the horizon, one concept at a time</sub>
 
 </div>
 
 <br/>
 
-```
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │                                                                     │
-  │   ⚡ HARDWARE         →→→→→→→→→→→→→→       SOFTWARE 💻             │
-  │                                                                     │
-  │   [ MCU / ESP32 ]  ══════════╗                                      │
-  │   [ Arduino Uno ]  ══════════╬══► [ Embedded Firmware ]             │
-  │   [ PCB Design  ]  ══════════╝         │                            │
-  │                                        ▼                            │
-  │                              [ Sensor Data & Logic ]                │
-  │                                        │                            │
-  │   [ IoT Sensors ] ═══════════╗         ▼                            │
-  │   [ Actuators   ] ═══════════╬══► [ Cloud / Edge AI ]               │
-  │   [ Protocols   ] ═══════════╝         │                            │
-  │      I²C · SPI · UART                  ▼                            │
-  │                              [ Intelligent Systems ]                │
-  │                                        │                            │
-  │                                        ▼                            │
-  │                              [ Practical Engineering ]              │
-  │                                   SOLUTIONS  ✓                      │
-  │                                                                     │
-  └─────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| &nbsp; | Topic | Focus |
+|:---:|:---|:---|
+| ⚙️ | **Embedded Systems Development** | Advanced MCU programming and RTOS concepts |
+| ☕ | **Advanced Java** | OOP principles · Collections · Data Structures & Algorithms |
+| 📡 | **IoT + AI Integration** | Combining sensor networks with intelligent decision-making |
+| 🔲 | **PCB Design** | Altium Designer · Schematic capture · Layout techniques |
+| 🧮 | **Data Structures & Algorithms** | Algorithmic problem-solving and computational thinking |
+| 🔗 | **Hardware–Software Integration** | Bridging hardware control with software intelligence |
+
+</div>
 
 <br/>
 
 <div align="center">
 
-| 🔌 &nbsp;Hardware Meets Software | 🤖 &nbsp;Intelligent Embedded Systems | 📡 &nbsp;Connected IoT Devices |
-|:---:|:---:|:---:|
-| *Bridging physical electronics with firmware and software logic* | *Embedding AI decisions at the hardware level* | *Real-world sensors + cloud intelligence* |
-
-| 🧠 &nbsp;AI-Powered Engineering | 📐 &nbsp;Electronic System Design |
-|:---:|:---:|
-| *Applying ML fundamentals to engineering problems* | *From schematic to working circuit* |
+![Embedded Systems](https://img.shields.io/badge/Exploring-Embedded_Systems_Dev-1e293b?style=flat-square&labelColor=1e1b4b&color=818cf8)&nbsp;
+![Advanced Java](https://img.shields.io/badge/Exploring-Advanced_Java-1e293b?style=flat-square&labelColor=1e1b4b&color=4f46e5)&nbsp;
+![IoT + AI](https://img.shields.io/badge/Exploring-IoT_+_AI_Integration-1e293b?style=flat-square&labelColor=134e4a&color=2dd4bf)&nbsp;
+![PCB Design](https://img.shields.io/badge/Exploring-PCB_Design-1e293b?style=flat-square&labelColor=2d1b69&color=c4b5fd)&nbsp;
+![DSA](https://img.shields.io/badge/Exploring-DSA-1e293b?style=flat-square&labelColor=1e3a5f&color=93c5fd)&nbsp;
+![HW-SW](https://img.shields.io/badge/Exploring-HW--SW_Integration-1e293b?style=flat-square&labelColor=1a3a2a&color=86efac)
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║              CONNECT WITH ME                        ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     CONNECT WITH ME
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-## 🌐 &nbsp;`{ CONNECT WITH ME }`
+## Connect & Collaborate
 
-*Let's connect, collaborate and build something extraordinary.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-DHARANA--NIDHINI--K--K-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHARANA-NIDHINI-K-K)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharana-nidhini-k-k)
+*Always open to discussing engineering, embedded systems, IoT, AI, or just connecting with fellow builders.*
 
 <br/>
 
-> 📌 **LinkedIn** is linked directly from my GitHub profile.
-> Please verify the URL via my [GitHub profile page](https://github.com/DHARANA-NIDHINI-K-K).
+[![GitHub](https://img.shields.io/badge/GitHub-DHARANA--NIDHINI--K--K-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHARANA-NIDHINI-K-K)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharana_Nidhini_K_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharana-nidhini-k-k)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dharana-nidhini-k-k.github.io/DHARANA-NIDHINI-K-K)
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║                  FOOTER                            ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     FOOTER
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║   DHARANA NIDHINI K K  ·  B.E. Electrical & Electronics Engg  ║
-║   Bannari Amman Institute of Technology  ·  Erode              ║
-║   ─────────────────────────────────────────────────────────    ║
-║   "Bridging the gap between electronics,                       ║
-║    intelligent systems and software."                          ║
-╚════════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+**Dharana Nidhini K K** &nbsp;·&nbsp; B.E. Electrical & Electronics Engineering &nbsp;·&nbsp; BIT Erode &nbsp;·&nbsp; 3rd Year
+
+<sub>Embedded Systems · Electronics · IoT · AI · PCB Design · Software Development</sub>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DHARANA-NIDHINI-K-K&color=00ffe0&style=flat-square&label=Profile+Views)
-
-<br/>
-
-*⚡ Built with passion for engineering · Last updated 2026*
+![Profile Views](https://komarev.com/ghpvc/?username=DHARANA-NIDHINI-K-K&color=4f46e5&style=flat-square&label=Profile+Views)
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════
-     END OF README
-     ═══════════════════════════════════════════════════════════ -->
-
