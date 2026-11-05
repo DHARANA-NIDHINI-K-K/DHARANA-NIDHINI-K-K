@@ -1,0 +1,69 @@
+<svg width="380" height="200" viewBox="0 0 380 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050e2a"/><stop offset="100%" style="stop-color:#020b18"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="380" height="200" rx="12" fill="url(#bg)"/>
+  <rect width="380" height="200" rx="12" fill="none" stroke="#00ffe0" stroke-width="1.2" opacity="0.5"/>
+  <!-- Top accent -->
+  <rect x="20" y="0" width="80" height="2" fill="#00ffe0" opacity="0.8"/>
+  <!-- Project number -->
+  <text x="20" y="30" font-family="'Courier New', monospace" font-size="10" fill="#00ffe0" opacity="0.6" letter-spacing="1">PROJECT_01</text>
+  <!-- Icon area: Arduino chip representation -->
+  <rect x="295" y="15" width="60" height="60" rx="6" fill="#0a1628" stroke="#00ffe0" stroke-width="1" opacity="0.7"/>
+  <text x="325" y="40" font-family="'Courier New', monospace" font-size="8" fill="#00ffe0" text-anchor="middle">UNO</text>
+  <text x="325" y="52" font-family="'Courier New', monospace" font-size="7" fill="#64748b" text-anchor="middle">ARDUINO</text>
+  <!-- Pin lines on icon -->
+  <g stroke="#00ffe0" stroke-width="0.8" opacity="0.5">
+    <line x1="295" y1="25" x2="285" y2="25"/>
+    <line x1="295" y1="33" x2="285" y2="33"/>
+    <line x1="295" y1="41" x2="285" y2="41"/>
+    <line x1="355" y1="25" x2="365" y2="25"/>
+    <line x1="355" y1="33" x2="365" y2="33"/>
+    <line x1="355" y1="41" x2="365" y2="41"/>
+  </g>
+
+  <!-- Title -->
+  <text x="20" y="58" font-family="'Courier New', monospace" font-size="13" font-weight="bold"
+        fill="#00ffe0" filter="url(#glow)" letter-spacing="0.5">DIP Switch ASCII Converter</text>
+  <text x="20" y="74" font-family="'Courier New', monospace" font-size="10" fill="#94a3b8">
+    with LCD Display &amp; Buzzer Alert
+  </text>
+
+  <!-- Description -->
+  <text x="20" y="96" font-family="'Courier New', monospace" font-size="9" fill="#64748b">
+    8-bit DIP switch binary input → ASCII output
+  </text>
+  <text x="20" y="110" font-family="'Courier New', monospace" font-size="9" fill="#64748b">
+    on 16×2 I²C LCD with buzzer feedback.
+  </text>
+
+  <!-- Tech tags -->
+  <g font-family="'Courier New', monospace" font-size="8">
+    <rect x="20" y="122" width="62" height="16" rx="8" fill="#00ffe015" stroke="#00ffe0" stroke-width="0.8"/>
+    <text x="51" y="134" fill="#00ffe0" text-anchor="middle">Arduino Uno</text>
+
+    <rect x="88" y="122" width="52" height="16" rx="8" fill="#3b82f615" stroke="#3b82f6" stroke-width="0.8"/>
+    <text x="114" y="134" fill="#3b82f6" text-anchor="middle">Embedded C</text>
+
+    <rect x="146" y="122" width="36" height="16" rx="8" fill="#a855f715" stroke="#a855f7" stroke-width="0.8"/>
+    <text x="164" y="134" fill="#a855f7" text-anchor="middle">I²C LCD</text>
+
+    <rect x="188" y="122" width="44" height="16" rx="8" fill="#00ffe015" stroke="#00ffe0" stroke-width="0.8"/>
+    <text x="210" y="134" fill="#00ffe0" text-anchor="middle">DIP Switch</text>
+  </g>
+
+  <!-- Status badge -->
+  <rect x="20" y="150" width="70" height="16" rx="8" fill="#00ff8820" stroke="#00ff88" stroke-width="0.8"/>
+  <circle cx="30" cy="158" r="3" fill="#00ff88"/>
+  <text x="56" y="162" font-family="'Courier New', monospace" font-size="8" fill="#00ff88" text-anchor="middle">COMPLETED</text>
+
+  <!-- Bottom link area -->
+  <rect x="20" y="175" width="340" height="1" fill="#1e3a5f"/>
+  <text x="20" y="192" font-family="'Courier New', monospace" font-size="9" fill="#3b82f6">
+    ⟶  github.com/DHARANA-NIDHINI-K-K
+  </text>
+</svg>
+

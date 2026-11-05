@@ -1,0 +1,117 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#020b18;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#050e2a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#020b18;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ffe0;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bgGrad)" rx="12"/>
+
+  <!-- Top border glow line -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#nameGrad)" rx="1" opacity="0.8"/>
+  <!-- Bottom border glow line -->
+  <rect x="0" y="198" width="900" height="2" fill="url(#nameGrad)" rx="1" opacity="0.8"/>
+
+  <!-- Circuit trace decorations left -->
+  <g opacity="0.3" stroke="#00ffe0" stroke-width="1" fill="none">
+    <line x1="10" y1="40" x2="80" y2="40"/>
+    <line x1="80" y1="40" x2="80" y2="80"/>
+    <line x1="80" y1="80" x2="40" y2="80"/>
+    <circle cx="80" cy="40" r="3" fill="#00ffe0"/>
+    <circle cx="40" cy="80" r="3" fill="#00ffe0"/>
+    <line x1="10" y1="150" x2="60" y2="150"/>
+    <line x1="60" y1="150" x2="60" y2="120"/>
+    <circle cx="60" cy="120" r="3" fill="#00ffe0"/>
+  </g>
+
+  <!-- Circuit trace decorations right -->
+  <g opacity="0.3" stroke="#a855f7" stroke-width="1" fill="none">
+    <line x1="890" y1="40" x2="820" y2="40"/>
+    <line x1="820" y1="40" x2="820" y2="80"/>
+    <line x1="820" y1="80" x2="860" y2="80"/>
+    <circle cx="820" cy="40" r="3" fill="#a855f7"/>
+    <circle cx="860" cy="80" r="3" fill="#a855f7"/>
+    <line x1="890" y1="150" x2="840" y2="150"/>
+    <line x1="840" y1="150" x2="840" y2="120"/>
+    <circle cx="840" cy="120" r="3" fill="#a855f7"/>
+  </g>
+
+  <!-- Small dots grid pattern (subtle) -->
+  <g opacity="0.08" fill="#00ffe0">
+    <circle cx="150" cy="30" r="1.5"/>
+    <circle cx="180" cy="30" r="1.5"/>
+    <circle cx="210" cy="30" r="1.5"/>
+    <circle cx="150" cy="60" r="1.5"/>
+    <circle cx="180" cy="60" r="1.5"/>
+    <circle cx="720" cy="30" r="1.5"/>
+    <circle cx="750" cy="30" r="1.5"/>
+    <circle cx="720" cy="60" r="1.5"/>
+    <circle cx="750" cy="60" r="1.5"/>
+    <circle cx="780" cy="60" r="1.5"/>
+  </g>
+
+  <!-- Main name -->
+  <text x="450" y="85" font-family="'Courier New', Courier, monospace" font-size="38" font-weight="bold"
+        fill="url(#nameGrad)" text-anchor="middle" filter="url(#softGlow)" letter-spacing="4">
+    DHARANA NIDHINI K K
+  </text>
+
+  <!-- Subtitle line -->
+  <text x="450" y="118" font-family="'Courier New', Courier, monospace" font-size="14"
+        fill="#94a3b8" text-anchor="middle" letter-spacing="2">
+    ⚡  B.E. Electrical &amp; Electronics Engineering  ·  BIT Erode  ⚡
+  </text>
+
+  <!-- Tag line -->
+  <text x="450" y="150" font-family="'Courier New', Courier, monospace" font-size="12"
+        fill="#00ffe0" text-anchor="middle" opacity="0.85" font-style="italic">
+    "Bridging the gap between electronics, intelligent systems and software."
+  </text>
+
+  <!-- Bottom tags row -->
+  <g font-family="'Courier New', Courier, monospace" font-size="10" text-anchor="middle">
+    <rect x="145" y="162" width="90" height="20" rx="10" fill="none" stroke="#00ffe0" stroke-width="1" opacity="0.6"/>
+    <text x="190" y="176" fill="#00ffe0" opacity="0.9">Embedded Systems</text>
+
+    <rect x="250" y="162" width="70" height="20" rx="10" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.6"/>
+    <text x="285" y="176" fill="#3b82f6" opacity="0.9">Electronics</text>
+
+    <rect x="334" y="162" width="40" height="20" rx="10" fill="none" stroke="#a855f7" stroke-width="1" opacity="0.6"/>
+    <text x="354" y="176" fill="#a855f7" opacity="0.9">IoT</text>
+
+    <rect x="388" y="162" width="30" height="20" rx="10" fill="none" stroke="#00ffe0" stroke-width="1" opacity="0.6"/>
+    <text x="403" y="176" fill="#00ffe0" opacity="0.9">AI</text>
+
+    <rect x="432" y="162" width="90" height="20" rx="10" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.6"/>
+    <text x="477" y="176" fill="#3b82f6" opacity="0.9">PCB Design</text>
+
+    <rect x="536" y="162" width="110" height="20" rx="10" fill="none" stroke="#a855f7" stroke-width="1" opacity="0.6"/>
+    <text x="591" y="176" fill="#a855f7" opacity="0.9">Microcontrollers</text>
+
+    <rect x="660" y="162" width="90" height="20" rx="10" fill="none" stroke="#00ffe0" stroke-width="1" opacity="0.6"/>
+    <text x="705" y="176" fill="#00ffe0" opacity="0.9">Software Dev</text>
+  </g>
+</svg>
+
